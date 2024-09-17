@@ -1,5 +1,5 @@
 //String o cadenas de texto
-// const alumno = "Al";
+// const alumno = "Al Farias Leyva";
 // let producto = "Monitor de 20 pulgadas";
 
 // const numero = "30";

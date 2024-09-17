@@ -14,6 +14,8 @@ básicos de lógica de programación.
 | --- | ------------------------------------------------ | ------- |
 | 1.  | Métodologias de evaluación                       | Activa  |
 | 2.  | Inicialización del Proyecto de Fundamentos de JS | Activa  |
+| 3.  | Declaración de Variables                         | Activa  |
+| 4.  | Introducción a Objetos                           | Activa  |
 
 ### Autor
 
