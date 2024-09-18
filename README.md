@@ -10,12 +10,12 @@ básicos de lógica de programación.
 
 ## Historial de Prácticas
 
-| No. | Descripción                                      | Estatus |
-| --- | ------------------------------------------------ | ------- |
-| 1.  | Métodologias de evaluación                       | Activa  |
-| 2.  | Inicialización del Proyecto de Fundamentos de JS | Activa  |
-| 3.  | Declaración de Variables                         | Activa  |
-| 4.  | Introducción a Objetos                           | Activa  |
+| No. | Descripción                                                 | Potenciador | Estatus |
+| --- | ----------------------------------------------------------- | ----------- | ------- |
+| 1.  | Métodologias de evaluación                                  | 1           | Activa  |
+| 2.  | Inicialización del Proyecto de Fundamentos de JS            | 5           | Activa  |
+| 3.  | Declaración de Variables (Undefined/Boolean/Nuber)          | 10          | Activa  |
+| 4.  | Introducción a Objetos (String/BigInt/Symbol/Null/Function) | Por definir | Activa  |
 
 ### Autor
 
