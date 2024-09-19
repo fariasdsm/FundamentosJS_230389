@@ -280,3 +280,26 @@ console.log(
 
 // const descuento = null;
 // console.log(typeof descuento);
+
+//// Comparando NULL vs UNDEFINED
+// Si bien UNDEFINED y NULL tienen el valor, no tienen el mismo tipo de dato.
+
+console.log("Comparacion de la identidad entre UNDEFINED y NULL: ");
+fecha_ultimoPost == estatusRelacionSentimental
+  ? console.log("Ambas variables tienen el mismo valor")
+  : console.log("Ambas variables no tienen el mismo valor");
+
+console.log("Comparacion de la equidad entre UNDEFINED y NULL: ");
+fecha_ultimoPost === estatusRelacionSentimental
+  ? console.log("Ambas variables tienen el mismo valor y el mismo tipo de dato")
+  : console.log(
+      "Ambas variables no tienen el mismo valor, pero no el mismo tipo de dato"
+    );
+
+// 8. FUNCTION (funciones)
+
+//Declaramos una funcion que nos permita recibir un parametro en este caso el nombre de la persona a saludar, y le enviamos un saludo, esta funcion la asignamos a una cponstante
+const saludar = function (nombre) {
+  return `Hola, ${nombre}`;
+};
+console.log(saludar("Al"));
